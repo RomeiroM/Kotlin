@@ -1,4 +1,4 @@
-#Primeiro App DIO
+# Primeiro App DIO
 Esse projeto tem o objetivo de realizar um desafio para os alunos do curso de Android na DIO.
 
 Repositório Base: [igorbag](https://github.com/digitalinnovationone/meu-primeiro-app-dio/tree/main)
